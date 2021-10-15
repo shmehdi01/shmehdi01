@@ -1,7 +1,9 @@
 # Great Landing !! 👋 It's Syed Hussain Mehdi's Profile
 
 ![](https://komarev.com/ghpvc/?username=shmehdi01&color=blue&style=flat-square&label=Syed's+Profile+View) 
-
+<a href="https://stackoverflow.com/cv/shmehdi01">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Resume-F47F24">                                                   
+</a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shmehdi01)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shmehdi01"/>
